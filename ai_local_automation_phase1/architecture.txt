@@ -1,0 +1,1 @@
+USER -> Terminal -> ML Intent Classifier -> Task Planner -> Safety/Permission -> MCP-style Tool Registry -> Local Tool -> Sandbox/Allowlisted App -> Verification/Logging -> Terminal Feedback

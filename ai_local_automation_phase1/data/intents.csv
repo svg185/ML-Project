@@ -1,0 +1,23 @@
+text,intent
+open chrome,open_application
+launch chrome,open_application
+open calculator,open_application
+start calculator,open_application
+open notepad,open_application
+launch notepad,open_application
+create a folder,create_folder
+make a new folder,create_folder
+create a new directory,create_folder
+make folder,create_folder
+list files,list_files
+show files,list_files
+display files,list_files
+what files are here,list_files
+find pdf files,search_files
+search for pdf,search_files
+find my report,search_files
+search for report,search_files
+look for presentation,search_files
+delete a file,delete_file
+remove a file,delete_file
+delete report,delete_file
